@@ -1,0 +1,13 @@
+name: yellowjacket
+version: 0.1.0
+
+authors:
+  - Will Lewis <your-email-here>
+
+targets:
+  yellowjacket:
+    main: src/yellowjacket.cr
+
+crystal: 0.33.0
+
+license: MIT
